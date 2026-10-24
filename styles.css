@@ -170,6 +170,7 @@ html.js .reveal.is-visible{opacity:1;transform:none}
   body{padding-bottom:0}
   .section{padding:88px 0}
   .grid{grid-template-columns:repeat(3,1fr)}
+  .grid.grid-reviews{grid-template-columns:repeat(2,1fr)}
   .info-grid{grid-template-columns:repeat(2,1fr)}
   .call-bar{display:none}
   .sample-banner{font-size:.8rem}
